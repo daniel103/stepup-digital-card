@@ -1,14 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-
-FN:Daniel Elias Step Up
-
-TEL:0546137471
-
-EMAIL:stepup.sitepro@gmail.com
-
-ORG:Daniel Elias Step Up
-
-URL:
-
+VERSION:3.0
+N:דניאל;אליאס;;;
+FN:דניאל אליאס
+ORG:Step Up - אתרים ברמה אחרת
+TITLE:שיווק דיגיטלי ובניית אתרים
+TEL;TYPE=CELL,VOICE:+972546137471
 END:VCARD
